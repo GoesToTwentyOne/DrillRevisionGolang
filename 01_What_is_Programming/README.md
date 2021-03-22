@@ -21,7 +21,8 @@
 - [x] **03 to accomplish a specific computing result or to perform a specific task.**
 - The main purpose of using a computer is to solve specific problems. One of the way to solve the problem is programming.
 
-
+- [x] **Note**
+- https://docs.google.com/document/d/1wrH0qdLWGoMW-sp6l6YUt8ibmrw-9_EM0eOZSEEkPKQ/edit?usp=sharing
 
 
 
