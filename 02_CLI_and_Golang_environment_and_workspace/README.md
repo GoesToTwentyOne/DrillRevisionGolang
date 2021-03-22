@@ -31,7 +31,7 @@
         - Specific work, specific folder make easy to find out that file.
 - **What is a filename extension(.exe .pdf .txt .go .php etc)?**
     - A filename extension, file extension or file type is an identifier specified as a suffix to the name of a computer file. A filename extension is typically delimited from the filename with a full stops.
-    - The Purpose of the filename extensions
+    - **The Purpose of the filename extensions**
         - It helps you identify the type of document.
         - For example, a file with an extension of .jpg is a photo and a file extension of .exe tells you it's a program. 
 - [x] **What is the package in GO?**
@@ -40,5 +40,7 @@
         - Package means reusable {create one time use multiple times}.
         - It organizes code so that its easier to find code you want to reuse & maintenance.
 
+
+
 - [x] **Note**
-- https://docs.google.com/document/d/1wrH0qdLWGoMW-sp6l6YUt8ibmrw-9_EM0eOZSEEkPKQ/edit?usp=sharing
+- https://docs.google.com/document/d/1_V41DFSIGGPhrr0dPNLAyebWEcsqhn0rVm5clC5RT0s/edit?usp=sharing
