@@ -10,5 +10,16 @@
      - **3. Command:**
      A command is a set of text-based instructions which has certain value to the system.
 
+
+- [x] **What is Environment variable?**
+    - Variables that can be used across terminal commands are called environment variables.
+    - %HOMEPATH% is an environment variable present in command line environments. It is used to get the path to the current user’s home directory. This makes it easy for programs to access the home directory when needed.
+-   **Environment variable consists of 2 parts:-**
+    - **1. System variables:**
+    System environment variables are globally accessed by all users its means set for everyone.
+    -**2. User Variables:**
+    User environment variables are specific only to the currently logged-in user its means set for each user.
+
+
 - [x] **Note**
 - https://docs.google.com/document/d/1wrH0qdLWGoMW-sp6l6YUt8ibmrw-9_EM0eOZSEEkPKQ/edit?usp=sharing
