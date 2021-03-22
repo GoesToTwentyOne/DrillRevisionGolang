@@ -1,6 +1,6 @@
 # **Computer Programming**
  - [x] **What is computer programming?**
- The main purpose of using a computer is to solve problems. One of the way to solve the problem is programming. In the general way the methodical process of solving a problem is called programming.
+  -  The main purpose of using a computer is to solve problems. One of the way to solve the problem is programming. In the general way the methodical process of solving a problem is called programming.
 
 
 
