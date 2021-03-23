@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	var name string        //variable declaration
-	name = "Nihad Hossain" //value assign
-	fmt.Println(name)
+	// var name string        //variable declaration
+	// name = "Nihad Hossain" //value assign
+	// fmt.Println(name)
 	//more than one at once
 	var a, b, c, d int
 	a = 5
