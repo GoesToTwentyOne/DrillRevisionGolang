@@ -16,4 +16,10 @@ func main() {
 
 	}
 	fmt.Println(ano())
+
+	//anonymous function
+	//a function without a name
+	//syntax
+	//func expression
+	//assigning a func to a variable
 }
