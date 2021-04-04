@@ -6,7 +6,7 @@ import (
 
 func main() {
 	for i := 1; i < 257; i++ {
-		fmt.Println(i, " - ", string(i), " - ", []byte(string(i)))
+		// fmt.Println(i, " - ", string(i), " - ", []byte(string(i)))
 
 	}
 	foo := "a"
