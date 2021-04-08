@@ -14,3 +14,5 @@ func mul() func(x, y float64) float64 {
 	}
 
 }
+
+//https://www.ardanlabs.com/blog/2013/10/functions-and-naked-returns-in-go.html
