@@ -9,7 +9,8 @@ func main() {
 
 }
 func goes(callback func(x []int), numbers []int) {
-	var xs []int
+	// var xs []int
+	xs := []int{}
 
 	for _, value := range numbers {
 		xs = append(xs, value)
