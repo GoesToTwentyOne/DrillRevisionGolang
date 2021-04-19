@@ -25,8 +25,7 @@ func main() {
 	c := circle{
 		radius: 5,
 	}
-	// info(c) //don't receive  value type
-
+	// info(c)
 	info(&c)
 
 }
