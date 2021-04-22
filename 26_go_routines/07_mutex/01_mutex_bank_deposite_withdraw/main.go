@@ -36,3 +36,13 @@ func main() {
 	fmt.Printf("New Balance %d\n", balance)
 
 }
+
+/*resource:
+https://www.geeksforgeeks.org/mutex-in-golang-with-examples/
+https://tour.golang.org/concurrency/9
+https://gobyexample.com/mutexes
+https://tutorialedge.net/golang/go-mutex-tutorial/
+https://golangdocs.com/mutex-in-golang
+https://www.golangprograms.com/how-to-use-a-mutex-to-define-critical-sections-of-code-and-fix-race-conditions.html
+https://stackoverflow.com/questions/61420524/whats-the-difference-between-channel-and-mutex-in-golang
+*/
