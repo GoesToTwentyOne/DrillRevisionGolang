@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"sync"
 )
 
@@ -27,5 +28,8 @@ func main() {
 		wg.Wait()
 		close(ch)
 	}()
+	for n := range ch {
+		fmt.Println(n)
+	}
 
 }
