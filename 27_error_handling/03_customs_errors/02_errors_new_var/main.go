@@ -7,7 +7,7 @@ import (
 	"math"
 )
 
-var errorNew = errors.New("this is me")
+var errorNew = errors.New("norgate math: square root of negative number")
 
 func main() {
 	fmt.Printf("%T \n", errorNew)
