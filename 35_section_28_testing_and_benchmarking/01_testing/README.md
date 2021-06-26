@@ -1,0 +1,3 @@
+# What is table testing?
+The decision table is a software testing technique which is used for testing the system behavior for different input combinations. This is a systematic approach where the different input combinations and their corresponding system behavior are captured in a tabular form.
+This table helps you deal with different combination inputs with their associated outputs. Also, it is known as the cause-effect table because of an associated logical diagramming technique called cause-effect graphing that is basically used to derive the decision table.
